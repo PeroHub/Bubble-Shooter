@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Shooter: Classic Pop",
+  "description": "A polished, juicy classic bubble shooter puzzle game with multiple levels, floating bubble drops, trajectory previews, and synthesized audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
